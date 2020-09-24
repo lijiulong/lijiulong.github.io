@@ -1,7 +1,7 @@
 # Site settings
 title: 
 email: 
-baseurl: "/kb" # the subpath of your site, e.g. /blog/
+baseurl: "" # the subpath of your site, e.g. /blog/
 url: "https://lijiulong.github.io" # the base hostname & protocol for your site
 
 markdown: kramdown
