@@ -2,7 +2,7 @@
 title: Frank's Personal Site
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "https://lijiulong.github.io" # the base hostname & protocol for your site
+url: "http://techblog.venator.cc" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
