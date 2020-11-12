@@ -1,5 +1,5 @@
 # Site settings
-title: Frank's Personal Site
+title: Frank's Technical Blog
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://techblog.venator.cc" # the base hostname & protocol for your site
