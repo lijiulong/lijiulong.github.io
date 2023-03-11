@@ -2,7 +2,7 @@
 title: Frank's Technical Blog
 email: 
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "http://techblog.venator.cc" # the base hostname & protocol for your site
+url: "https://techblog.venator.cc" # the base hostname & protocol for your site
 
 markdown: kramdown
 # toc_levels: 1……2
